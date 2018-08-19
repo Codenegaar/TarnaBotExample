@@ -1,0 +1,3 @@
+[submodule "lib/TarnaBot"]
+	path = lib/TarnaBot
+	url = https://github.com/codenegaar/TarnaBot
